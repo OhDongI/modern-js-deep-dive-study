@@ -86,5 +86,5 @@ var foo = var x; // SyntaxError
 ## 8. 완료 값 (Completion Value)
 
 * 크롬 개발자 도구에서 표현식이 아닌 문을 실행하면 항상 `undefined`가 출력된다.
-* 이때 출력되는 값을 \*\*완료 값(completion value)\*\*이라고 한다.
+* 이때 출력되는 값을 **완료 값(completion value)**이라고 한다.
 
